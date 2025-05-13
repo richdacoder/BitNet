@@ -2,7 +2,7 @@
 
 *.a
 *.bat
-*.bin
+*.bin 
 *.dll
 *.dot
 *.etag
